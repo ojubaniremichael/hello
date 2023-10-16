@@ -1,0 +1,12 @@
+.img-responsive{
+    width: 350px;
+    height: 180px;
+}
+.card{
+    margin-bottom: 30px;
+}
+@media(max-width: 700px){
+    .navbar{
+        width: 100%;
+    }
+}
